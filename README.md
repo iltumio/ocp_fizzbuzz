@@ -1,3 +1,5 @@
+# THANKS TO [Rust Language Milano](https://www.meetup.com/it-IT/rust-language-milano/) Group 
+
 # Open Closed Principle FizzBuzz Kata
 
 ## Master Rule
